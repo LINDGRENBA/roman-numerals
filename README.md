@@ -22,7 +22,7 @@ Use Behavior Driven Development to convert numbers to roman numerals. Take the t
 | Behavior | Input | Output |
 | -------- | ----- | ------ |
 | Take in an input and return the same input | 2 | 2 |
-| Take in a value and return a single symbol | 1, 5, 10, 50, 100, 500 | I, V, X, L, C, D, M |
+| Take in a value and return a single symbol | 1, 5, 10, 50, 100, 500 1000 | I, V, X, L, C, D, M |
 
 
 ## Known Bugs
