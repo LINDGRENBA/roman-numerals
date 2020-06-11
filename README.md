@@ -18,19 +18,16 @@ Use Behavior Driven Development to convert numbers to roman numerals. Take the t
 
 ## Specifications
 
-####
-*
-*
-
-####
-*
-*
-
+#### Behavior: 
+| Behavior | Input | Output |
+| -------- | ----- | ------ |
+| Take in an input and return the same input | 2 | 2 |
+| Take in a value and return a single symbol | 1, 5, 10, 50, 100, 500 | I, V, X, L, C, D, M |
 
 
 ## Known Bugs
 
-Adding else if and else statements to business logic causes exception. Input = i, Output = iay.
+There are no known bugs at this time.
 
 ## Support and contact details
 
